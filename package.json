@@ -1,0 +1,12 @@
+{
+  "name": "biye-frontend",
+  "version": "1.0.0",
+  "description": "Frontend Flutter Web utilities",
+  "scripts": {
+    "build:web": "flutter build web --release",
+    "serve:web": "flutter run -d web-server"
+  },
+  "dependencies": {
+    "dotenv-cli": "^11.0.0"
+  }
+}
